@@ -25,10 +25,6 @@ dropped out of aerospace engineering at sjsu, moved to san diego, and taught mys
 
 **mobile:** swiftui, expo, react native, firebase, supabase, convex, revenuecat, superwall
 
-**infra:** pnpm monorepos, stripe, postHog, vercel
-
-**ai:** openrouter, gemini, vision models for document/receipt processing
-
 ## maintaining
 
 - [openclaw](https://github.com/openclaw/openclaw) — open source ai agent framework
