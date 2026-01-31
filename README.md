@@ -14,9 +14,9 @@ dropped out of aerospace engineering at sjsu, moved to san diego, and taught mys
 
 ## also shipped
 
-- **Receipt Rocket** — ai receipt capture for field teams, snap photos and it extracts everything
-- **Chore Champ** — gamified chore management ios app with screen time integration and ai photo verification
-- **ViralKit** — ai creative director that generates tiktok slideshows for brands
+- **[Receipt Rocket](https://receiptrocketapp.com)** — ai receipt capture for field teams, snap photos and it extracts everything
+- **[Chore Champ](https://chorechamp.app)** — gamified chore management ios app with screen time integration and ai photo verification
+- **[ViralKit](https://viralkit.app)** — ai creative director that generates tiktok slideshows for brands
 - **Invoice Renamer** — desktop app to batch rename invoice pdfs with ai extraction
 
 ## stack i reach for
