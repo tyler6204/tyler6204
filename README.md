@@ -1,6 +1,6 @@
 # hey, i'm tyler 👋
 
-📍 **san diego, ca** | 🛠️ **building products** | 🎓 **sjsu dropout, self-taught dev**
+ 🎈 **22 y/o** | 📍 **san diego, ca**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
