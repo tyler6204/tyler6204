@@ -45,6 +45,3 @@ dropped out of aerospace engineering at sjsu, moved to san diego, and taught mys
 <p align="center">
   <img src="https://ghchart.rshah.org/tyler6204" alt="github stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tyler6204&theme=tokyonight&hide_border=true" alt="github streak" />
-</p>
