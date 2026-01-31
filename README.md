@@ -6,24 +6,24 @@ dropped out of aerospace engineering at sjsu, moved to san diego, and taught mys
 
 **[Track My Posts](https://trackmyposts.com)** — creator analytics & revenue attribution for brands doing influencer/ugc marketing. track posts, attribute revenue, scale faster. no spreadsheets, no guesswork.
 
-**[Split](https://github.com/tyler6204)** — ios app for splitting bills. scan a receipt, assign items, done in seconds. built it in a month because splitwise sucks.
-
 **[Organized Contractor](https://organizedcontractor.com)** — ops app for contracting crews. manage jobs, employees, crew assignments. web + expo/react native mobile with convex backend.
 
-**[XCursor](https://github.com/tyler6204/XCursor)** — write ios code in vscode/cursor, keep xcode previews synced. mac app + vscode extension.
 
 ## also shipped
 
+- **[ViralKit](https://viralkit.app)** — ai creative director that generates tiktok slideshows for brands
+- **[Split](https://github.com/tyler6204)** — ios app for splitting bills. scan a receipt, assign items, done in seconds. built it in a month because splitwise sucks.
 - **[Receipt Rocket](https://receiptrocketapp.com)** — ai receipt capture for field teams, snap photos and it extracts everything
 - **[Chore Champ](https://chorechamp.app)** — gamified chore management ios app with screen time integration and ai photo verification
-- **[ViralKit](https://viralkit.app)** — ai creative director that generates tiktok slideshows for brands
 - **Invoice Renamer** — desktop app to batch rename invoice pdfs with ai extraction
+- **[XCursor](https://github.com/tyler6204/XCursor)** — write ios code in vscode/cursor, keep xcode previews synced. mac app + vscode extension.
+
 
 ## stack i reach for
 
-**web:** next.js, react, typescript, tailwind, supabase, drizzle, convex
+**web:** next.js, react, typescript, tailwind, postgresql, convex
 
-**mobile:** swiftui, expo, react native, firebase, supabase, convex, revenuecat, superwall
+**mobile:** swiftui, expo, react native, firebase, postgresql, convex, revenuecat, superwall
 
 ## maintaining
 
